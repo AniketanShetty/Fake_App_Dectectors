@@ -1,0 +1,19 @@
+{
+  "app_name": "PhonePe",
+  "package_name": "com.phonepe.app",
+
+  "icon_phash": "1111111011011101111010001100110011101000111000001100000011000000",
+  "icon_sha256": "663e426b2c3f656de89bcdcd5f4f589bc98ef66d23027ad5e6191c13c1ec49de",
+
+  "trusted_file_names": [
+    "com.phonepe.app"
+  ],
+  "trusted_labels": [
+    "PhonePe",
+    "Phone Pe"
+  ],
+
+  "icon_source_file": "icons/phonepe.png",
+
+  "notes": "Dataset built using official PhonePe icon. Icon pHash and SHA256 are reliable for visual-fake detection in future extensions."
+}
